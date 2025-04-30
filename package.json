@@ -1,0 +1,23 @@
+{
+  "name": "zenncontents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirobusa1997/ZennContents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirobusa1997/ZennContents/issues"
+  },
+  "homepage": "https://github.com/shirobusa1997/ZennContents#readme",
+  "description": "",
+  "dependencies": {
+    "zenn-cli": "^0.1.159"
+  }
+}
